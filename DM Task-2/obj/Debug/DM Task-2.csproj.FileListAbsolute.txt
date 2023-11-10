@@ -1,0 +1,10 @@
+C:\Users\ryv26\source\repos\DM Task-2\bin\Debug\DM Task-2.exe.config
+C:\Users\ryv26\source\repos\DM Task-2\bin\Debug\DM Task-2.exe
+C:\Users\ryv26\source\repos\DM Task-2\bin\Debug\DM Task-2.pdb
+C:\Users\ryv26\source\repos\DM Task-2\obj\Debug\DM Task-2.csproj.AssemblyReference.cache
+C:\Users\ryv26\source\repos\DM Task-2\obj\Debug\DM_Task_2.Form1.resources
+C:\Users\ryv26\source\repos\DM Task-2\obj\Debug\DM_Task_2.Properties.Resources.resources
+C:\Users\ryv26\source\repos\DM Task-2\obj\Debug\DM Task-2.csproj.GenerateResource.cache
+C:\Users\ryv26\source\repos\DM Task-2\obj\Debug\DM Task-2.csproj.CoreCompileInputs.cache
+C:\Users\ryv26\source\repos\DM Task-2\obj\Debug\DM Task-2.exe
+C:\Users\ryv26\source\repos\DM Task-2\obj\Debug\DM Task-2.pdb
